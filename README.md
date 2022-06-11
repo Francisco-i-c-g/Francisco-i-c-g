@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francisco Castillo
+- 👋 Hi, I’m Francisco Castillo
 - 👀 I’m interested in all the world of programming... Also robotic, matematic, investments in cryptos currencies, to learn science fiction. 
 - 🌱 I’m currently learning Javascript, data sciencie, kotlin in general Android Estudio.
 - 💞️ I’m looking to collaborate on a tech corporation
